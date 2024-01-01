@@ -1,27 +1,59 @@
 # EventBooking
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.3.
+This project was generated with [Angular CLI] version 16.1.3.
 
-## Development server
+## Deploy Link 
+https://event-booking-by-vidhi.netlify.app/Home
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## About the project
+## Images 
+### Home Page
+![Screenshot (67)](https://github.com/03-Vidhi/EventBooking/assets/121597033/ac37b5cb-41c9-4cc6-a22d-7d251c3d036e)
 
-## Code scaffolding
+### Register Page
+![Screenshot (70)](https://github.com/03-Vidhi/EventBooking/assets/121597033/3e1639af-0b08-4d1f-8617-b97ef1e7b4a4)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Event Booking
+![Screenshot (68)](https://github.com/03-Vidhi/EventBooking/assets/121597033/b5e478b6-f694-44fb-87c5-1cf731a58664)
 
-## Build
+### All Booking Page
+![Screenshot (69)](https://github.com/03-Vidhi/EventBooking/assets/121597033/bc40447a-51ae-40dc-9e8d-06c756924790)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Frontend
+## Built With
 
-## Running unit tests
+* [Angular]()
+* [Bootstrap CSS]()
+* [HTML]()
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Getting Started
+To use this api follow these steps, which are given below:
 
-## Running end-to-end tests
+### 1. Installation
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+a. Clone the repo using cmd:
+```bash
+https://github.com/03-Vidhi/EventBooking
+```
+b. Go Inside the Folder:
+```bash
+  cd EventBooking
+```
+c. Install all dependencies
 
-## Further help
+d. To start the app use cmd:
+```bash
+  ng serve
+```
+The app will run on http://localhost:4200.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+
+
+
+
+
+
+
+
